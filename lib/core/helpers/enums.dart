@@ -1,0 +1,1 @@
+enum BottomNavBarPage { home, search, notifications, messages, more }
